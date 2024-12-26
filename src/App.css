@@ -1,0 +1,19 @@
+.App {
+  /*display: flex;*/
+  /*align-items: center;*/
+  /*justify-content: center;*/
+  text-align: center;
+}
+input {
+  outline: none;
+}
+table{
+  margin: auto ;
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid grey;
+}
+small {
+  font-size: 12px;
+  color: red;
+}
